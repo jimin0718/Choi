@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b6bd4b20abfd5d4081bc59b213c5cf2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - warriorAttackPrefab: {fileID: 6190267794181724019, guid: 2ff2867b110fe4f4a92e277d5e055a6e, type: 3}
+  - whipperAttackPrefab: {fileID: 6551501650539298635, guid: a84d3e57709e65f45843364b2232bd06, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
